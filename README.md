@@ -4,7 +4,7 @@
 
 ## Dataset setup
 
-Download the shanghaitech dataset from [here](https://pan.baidu.com/s/1nuAYslz), UCF-QNRF and UCF-CC-50 datasets from [here](https://www.crcv.ucf.edu/data/ucf-qnrf/).
+Download the shanghaitech dataset from [here](https://www.datafountain.cn/datasets/5670), UCF-QNRF and UCF-CC-50 datasets from [here](https://www.crcv.ucf.edu/data/ucf-qnrf/).
 
 ## Data preparation
 
